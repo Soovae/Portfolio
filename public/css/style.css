@@ -1,0 +1,51 @@
+body{
+    margin:0%;
+    padding:0%;
+}
+.color-header{
+    height: 100vh;
+    background-color:black;
+    
+}
+
+.title-header{
+    color:white;
+    margin:0px;
+    position:absolute;
+    left:40%;
+    top:250px;
+    
+}
+
+.para-header{
+    color:white;
+    margin:0px;
+    position:absolute;
+    top:320px;
+    text-align:justify;
+    margin-left: 200px;
+    margin-right:200px;
+}
+
+.nav-link{
+    position: absolute;
+    left:43%;
+    top:400px;
+}
+
+a{
+    text-decoration:none;
+    height:20px;
+    width:50px;
+    background-color:white;
+    margin:5px;
+    padding:5px;
+    border:1px solid red;
+    color:black;
+}
+
+a:hover{
+    background-color:red;
+    border:2px solid
+}
+   
