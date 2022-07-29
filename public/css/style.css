@@ -21037,4 +21037,62 @@ body {
   padding: 0;
 }
 
+.backimg {
+  background-image: url("../img/backimg.jpg");
+  padding-bottom: 92vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+  position: relative;
+}
+.backimg li {
+  list-style: none;
+}
+.backimg li a {
+  text-decoration: none;
+  color: white;
+}
+.backimg .navPos {
+  padding-right: 2vw;
+  padding-top: 2vh;
+}
+
+.para-header {
+  position: absolute;
+  top: 20%;
+  right: 20%;
+}
+
+.head_photoshop li {
+  list-style: none;
+  color: white;
+}
+.head_photoshop li a {
+  text-decoration: none;
+  color: white;
+}
+.head_photoshop .navPos {
+  padding-right: 2vw;
+  padding-top: 2vh;
+  padding-bottom: 2vh;
+}
+.head_photoshop .nav_photoshop {
+  background-color: black;
+}
+.head_photoshop .back_photoshop {
+  background-image: url("../img/pstitreimg.png");
+  padding-bottom: 150vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+}
+
+.body_photoshop {
+  background-color: #FFF9DC;
+}
+
+.sec1_photoshop img {
+  max-width: 600px;
+}
+
 /*# sourceMappingURL=style.css.map */
